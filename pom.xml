@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.car.inventory</groupId>
-	<artifactId>com.car.inventory</artifactId>
+	<artifactId>carinventory</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>carinventory</name>
 	<description>project for carinventory </description>
